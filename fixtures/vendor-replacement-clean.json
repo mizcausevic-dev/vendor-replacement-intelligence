@@ -1,0 +1,38 @@
+[
+  {
+    "id": "vri-clean-01",
+    "vendor": "Kinetic Gain Demo",
+    "systemName": "Lifecycle overlap retirement",
+    "category": "MARTECH",
+    "owner": "Growth operations",
+    "claim": "This duplicate workflow tool is ready to retire safely.",
+    "observedState": "Overlap is documented and migration steps are current.",
+    "evidenceState": "CURRENT",
+    "replacementStatus": "READY",
+    "migrationRisk": "LOW",
+    "annualSpendUsd": 65000,
+    "modeledSavingsUsd": 28000,
+    "renewalDays": 210,
+    "dependencyCount": 3,
+    "boardPriority": "WATCH",
+    "notes": ["Synthetic clean record for demo comparison."]
+  },
+  {
+    "id": "vri-clean-02",
+    "vendor": "Kinetic Gain Demo",
+    "systemName": "Workflow collaboration retirement",
+    "category": "COLLABORATION",
+    "owner": "Platform operations",
+    "claim": "This collaboration layer can be retired without operational drama.",
+    "observedState": "Usage is shallow and the replacement path is already documented.",
+    "evidenceState": "CURRENT",
+    "replacementStatus": "READY",
+    "migrationRisk": "LOW",
+    "annualSpendUsd": 52000,
+    "modeledSavingsUsd": 22000,
+    "renewalDays": 190,
+    "dependencyCount": 2,
+    "boardPriority": "WATCH",
+    "notes": ["Synthetic clean record for demo comparison."]
+  }
+]
